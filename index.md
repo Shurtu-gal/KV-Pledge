@@ -1,4 +1,4 @@
 ---
 title: Welcome to my first blog
 ---
-- [ ] Created a page
+- [X] Created a page
