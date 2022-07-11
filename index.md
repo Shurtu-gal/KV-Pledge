@@ -1,4 +1,4 @@
 ---
 title: Welcome to my first blog
 ---
-- [X] Created a page
+Just whiling away myself in the sands of time.
